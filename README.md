@@ -41,7 +41,7 @@ A interface do usuário segue a paleta de cores definida no enunciado:
    - Botão "Voltar" para retornar à tela com os valores vazios
 
 
-4. **Extras Implementados** *(caso tenha implementado algo além do enunciado)*
+4. **Extras Implementados**
    - Ícone ao iniciar o aplicativo
 
 ## 🔢 Cálculo do IMC
@@ -111,7 +111,7 @@ IMC = peso / (altura * altura);
 3. **Compile e execute no emulador ou dispositivo físico**
 
 ## 👄 Download do APK
-[🔗 Baixar APK](https://github.com/gbernardii/calculadora-imc/releases) *(substituir pelo link correto caso disponível)*
+[🔗 Baixar APK](https://github.com/gbernardii/calculadora-imc/releases)
 
 ## 📌 Entrega
 - [x] Código-fonte no GitHub
