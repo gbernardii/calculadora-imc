@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_fechar">Fechar</string>
+    <string name="msg_abaixo_peso">Você é leve como uma pluma! Que tal ganhar um pouco mais de energia com uma alimentação saudável?</string>
+    <string name="msg_peso_normal">Parabéns! Você está em harmonia com seu corpo!</string>
+    <string name="msg_sobrepeso">Você está quase lá! Pequenos ajustes na rotina podem trazer grandes resultados!</string>
+    <string name="msg_obesidade1">Você é incrível! Que tal começar uma nova jornada para cuidar da sua saúde?</string>
+    <string name="msg_obesidade2">Você tem força para mudar! Vamos dar o próximo passo juntos?</string>
+    <string name="msg_obesidade3">Você é mais forte do que imagina! Vamos trabalhar na sua saúde com calma e cuidado?</string>
+</resources>
